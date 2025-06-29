@@ -6,4 +6,4 @@
 ### 3. assignment_8_3.ipynb to repeat the second bullet point using one year ago data and compare the output with the latest results using a 3x2 subplot containing all the network representations [2.5 points]
 ## Note 1: please upload the data used for the second and third bullet points in csv format in your repository.
 ## Note 2: describe in the README.md file the measure used for aggregating bilateral imports and exports. Be careful with the definition of the data downloaded from the IMF DTS.
-## The aggregate used was the trade balance data provided by the IMF dataset.
+## *The aggregate used was the trade balance data provided by the IMF dataset.*
